@@ -816,6 +816,12 @@ video {
     flex-basis: 100%;
     max-width: 100%;
   }
+
+  .span-one-fifth {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    max-width: 100%;
+  }
   .span-half {
     -ms-flex-preferred-size: 100%;
     flex-basis: 100%;
