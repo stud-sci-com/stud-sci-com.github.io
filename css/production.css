@@ -929,7 +929,7 @@ video {
 .link,
 .link:link,
 .link:visited {
-  color: #4c83ff;
+  color: #009688;
   text-decoration: none;
   -webkit-transition: color 0.2s ease-out;
   transition: color 0.2s ease-out;
@@ -938,13 +938,13 @@ video {
 .default-links a:hover,
 .link:focus,
 .link:hover {
-  color: #1960ff;
+  color: #009688;
   text-decoration: underline;
 }
 .default-links a:active,
 .link:active {
   background-image: none;
-  color: #003fcc;
+  color: #009688;
   outline: 0;
   -webkit-transition: color 0.2s ease-out;
   transition: color 0.2s ease-out;
