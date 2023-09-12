@@ -1195,6 +1195,9 @@ hr {
 .bg--tertiary-color {
   background-color: #f0ad4e;
 }
+.bg--green {
+  background-color: #d9efed;
+}
 .m0 {
   margin: 0;
 }
